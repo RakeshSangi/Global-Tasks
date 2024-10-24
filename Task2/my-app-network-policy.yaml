@@ -19,4 +19,3 @@ spec:
   egress:
   - to:
     - podSelector: {}
-  # Deny all other traffic by default (this is implicit in NetworkPolicy behavior)
