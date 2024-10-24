@@ -1,1 +1,14 @@
-This is a demo file for node.js package and this file created for reference to copy inside the docker image.
+{
+  "name": "my-nodejs-app",
+  "version": "1.0.0",
+  "description": "A Node.js app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "rk",
+  "license": "ISC"
+}
