@@ -1,4 +1,4 @@
-## Steps build container and access application:
+## Steps to build container and access application:
 1.Build the Docker Image
 
 docker build -t my-nodejs-app .
