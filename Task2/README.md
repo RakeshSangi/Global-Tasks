@@ -10,4 +10,5 @@ Allows outgoing traffic to any pods within the same namespace (podSelector: {}).
 By not specifying other from or to rules, all other traffic is denied by default.
 
 4.Deploy the YAML files in Kubernetes cluster with below command.
+
 kubectl apply -f files-name.yaml
